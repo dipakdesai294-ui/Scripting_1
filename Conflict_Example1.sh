@@ -2,4 +2,4 @@ echo "We are trying this practical from linux EC2"
 echo "We are from batch-33 and learning git/gihub"
 echo "hello world"
 echo "This is B2"
-
+echo "this is B1"
